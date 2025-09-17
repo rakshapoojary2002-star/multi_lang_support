@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "myLocalization_hello": "Hello World",
+  "@myLocalization_hello": {
+    "description": "A simple greeting."
+  },
+  "myLocalization_selectLanguage": "Select Language",
+  "@myLocalization_selectLanguage": {
+    "description": "The title of the language selection dialog."
+  }
+}
